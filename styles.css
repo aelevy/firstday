@@ -1,0 +1,13 @@
+a {
+  color: blue;
+}
+
+li {
+  background-color: orange;
+}
+li span{
+  color:purple;
+}
+.food {
+  border: 10px solid green;
+}
